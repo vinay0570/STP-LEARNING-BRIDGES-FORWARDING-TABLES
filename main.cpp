@@ -248,7 +248,6 @@ int main() {
 				}
 				local.hosts.push_back(num);
 				host_lan[num] = l;
-				cout<<num<<" "<<l<<endl;
 			}
 			host_input = true;
 		} while (ss);  
