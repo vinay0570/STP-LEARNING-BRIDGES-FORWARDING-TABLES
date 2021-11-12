@@ -1,5 +1,5 @@
 # SPANNING TREE PROTOCOL-LEARNING BRIDGES
-### Implemented STP and Learning bridges in C++
+### Implemented STP, Learning bridges and Forwarding Tables in C++
 #### Model Input :
  ##### check out testinput in testcases folder <br>
 0 <br>
